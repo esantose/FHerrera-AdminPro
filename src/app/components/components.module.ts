@@ -21,7 +21,7 @@ import { DonaComponent } from './dona/dona.component';
   imports: [
     CommonModule,
     FormsModule,
-    ChartsModule 
+    ChartsModule
   ]
 })
 export class ComponentsModule { }
